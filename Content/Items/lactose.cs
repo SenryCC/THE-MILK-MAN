@@ -14,7 +14,7 @@ namespace RainyMilkPasture.Content.Items
 		{
 			Item.damage = 1000;
 			Item.DamageType = DamageClass.Melee;
-			Item.width = 40;
+			Item.width = 200;
 			Item.height = 40;
 			Item.useTime = 20;
 			Item.useAnimation = 20;
