@@ -12,7 +12,7 @@ namespace RainyMilkPasture.Content.Items
 		// The Display Name and Tooltip of this item can be edited in the 'Localization/en-US_Mods.RainyMilkPasture.hjson' file.
 		public override void SetDefaults()
 		{
-			Item.damage = 50;
+			Item.damage = 1000;
 			Item.DamageType = DamageClass.Melee;
 			Item.width = 40;
 			Item.height = 40;
