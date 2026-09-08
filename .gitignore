@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+obj/
+
+# tModLoader build output
+*.tmod
+
+# VS Code
+.vs/
+.vscode/
+
+# User-specific files
+*.user
+*.suo
+
+# OS junk
+.DS_Store
+Thumbs.db

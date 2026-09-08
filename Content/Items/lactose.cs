@@ -24,8 +24,10 @@ namespace RainyMilkPasture.Content.Items
 			Item.rare = ItemRarityID.Blue;
 			Item.UseSound = SoundID.Item1;
 			Item.autoReuse = true;
+
+			Item.shoot = ProjectileID.Bomb;
 			
-			Item.shoot = ProjectileID.WoodenArrowFriendly;
+			//Item.shoot = ProjectileID.WoodenArrowFriendly;
 		}
 
 		public override void AddRecipes()
