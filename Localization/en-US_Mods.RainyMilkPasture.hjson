@@ -3,7 +3,7 @@
 
 Items: {
 	lactose: {
-		DisplayName: "lactose"
+		DisplayName: lactose
 		Tooltip:
 			'''
 			Template of an item
